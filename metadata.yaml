@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '38013'
     url: http://www.gutenberg.org/2009/agents/38013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35976#Ku-Klux-Klan-Secrets-ExposedOrder.
 gutenberg_issued: '2011-04-27'
 gutenberg_type: Text
 identifiers:
